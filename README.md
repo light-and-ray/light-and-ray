@@ -1,7 +1,7 @@
 ## Hi there 
 
 ### AI related repos:
-+ **[Minimalistic Comfy Wrapper WebUI](https://github.com/light-and-ray/Minimalistic-Comfy-Wrapper-WebUI): the main my project. This UI turns ComfyUI into an indeed comfy UI**
++ **[Minimalistic Comfy Wrapper WebUI](https://github.com/light-and-ray/Minimalistic-Comfy-Wrapper-WebUI): the main project. This UI turns ComfyUI into an indeed comfy UI**
 + [sd-webui-lama-cleaner-masked-content](https://github.com/light-and-ray/sd-webui-lama-cleaner-masked-content): adds lama cleaner inpainting model into sd-webui inpainting tab as masked content option, and inpainting accordion into extras tab
 + [sd-webui-resynthesizer-masked-content](https://github.com/light-and-ray/sd-webui-resynthesizer-masked-content): very old inpaining algorithm integration into sd-webui
 + [sd-webui-replacer](https://github.com/light-and-ray/sd-webui-replacer): a dedicated page or tab in sd-webui that combines DINO+SAM detection and SD inpaiting
